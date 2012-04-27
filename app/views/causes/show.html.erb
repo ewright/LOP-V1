@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Cause Name:</b>
+  <%= @cause.causeName %>
+</p>
+
+<p>
+  <b>Cause Link:</b>
+  <%= @cause.causeLink %>
+</p>
+
+
+<%= link_to 'Edit', edit_cause_path(@cause) %> |
+<%= link_to 'Back', causes_path %>

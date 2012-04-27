@@ -1,0 +1,9 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  causeName: MyString
+  causLink: MyString
+
+two:
+  causeName: MyString
+  causLink: MyString
