@@ -77,8 +77,7 @@ GEM
     warden (0.10.7)
       rack (>= 1.0.0)
 
-PLATFORMS
-  x86-mingw32
+	  
 
 DEPENDENCIES
   devise (= 1.1.rc0)
